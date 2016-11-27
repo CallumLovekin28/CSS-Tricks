@@ -1,4 +1,4 @@
-# Animate.css
+# Animate.css :page_facing_up: :computer:
 
 
 This website allows people to download a .CSS sheet which has loads of animations for text and images just using the CSS Stylesheet.
