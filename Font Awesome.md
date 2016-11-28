@@ -7,7 +7,7 @@
 Put your e-mail and Font Awesome CDN will send you a code to paste it in your HTML document.  
 
 The code will look something like:   
-> "_<script src="https://use.fontawesome.com/f5166a862f.js"></script> _"  
+> "_< script src="https://use.fontawesome.com/f5166a862f.js"></script > _"  
 
-Remember, you have to paste it near the top of your _HTML's <head>_. 
+Remember, you have to paste it near the top of your _HTML's < head >_. 
 
