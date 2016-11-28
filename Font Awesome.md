@@ -35,7 +35,9 @@ This is what you'll get:
 
 **How to make animated icons:** 
 
-![image8](Screen Shot 2016-11-28 at 02.14.45.png) 
+![image8](Screen Shot 2016-11-28 at 02.14.45.png)
+
+This is how it looks like animated: [Animated Icons](http://fontawesome.io/examples/) 
 
 **How to rotate icons:** 
 
