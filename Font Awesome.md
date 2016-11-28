@@ -19,7 +19,7 @@ This is what you'll get:
 
 How to change the size of the icon: 
 
-![image4](Screen Shot 2016-11-28 at 01.58.16.png) 
+![image4](Screen Shot 2016-11-28 at 02.06.03.png) 
 
 
 
