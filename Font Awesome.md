@@ -11,3 +11,5 @@ The code will look something like:
 
 Remember, you have to paste it near the top of your HTML's < head >. 
 
+![image](Screen Shot 2016-11-28 at 01.54.59.png)
+
